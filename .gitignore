@@ -1,0 +1,12 @@
+node_modules/
+npm-debug.log*
+
+# All PDF files (too large for git — run download_war_ufo_pdfs.cjs to restore)
+*.pdf
+
+# Generated split log (regenerated on each run)
+war_ufo_split_log.json
+war_ufo_download_log.json
+
+# macOS
+.DS_Store

@@ -1,0 +1,250 @@
+{
+  "events": [
+    {
+      "date": "1942-02-25",
+      "title": "Battle of Los Angeles",
+      "description": "Anti-aircraft guns open fire over Los Angeles for hours at an unidentified aerial object. Official explanations range from weather balloon to war nerves. Over 1,400 shells fired. Multiple photos taken. Never fully explained.",
+      "category": "incident",
+      "significance": "high"
+    },
+    {
+      "date": "1947-06-24",
+      "title": "Kenneth Arnold Sighting",
+      "description": "Pilot Kenneth Arnold reports nine disc-shaped objects flying near Mt. Rainier, WA at speeds he estimated at 1,200+ mph. The press coins the term 'flying saucer.' Triggers hundreds of similar reports nationwide within weeks.",
+      "category": "sighting",
+      "significance": "high"
+    },
+    {
+      "date": "1947-07-08",
+      "title": "Roswell: 'Flying Disc' Recovered",
+      "description": "Roswell Army Air Field public information officer Walter Haut issues a press release stating the Army has recovered a 'flying disc.' The next day, the Army retracts, calling it a weather balloon. Debate continues to this day.",
+      "category": "incident",
+      "significance": "critical"
+    },
+    {
+      "date": "1948-01-07",
+      "title": "Project Sign Begins",
+      "description": "The U.S. Air Force launches Project Sign — its first official systematic investigation into UFO reports. Initial investigators conclude some sightings may represent extraterrestrial craft. The report is classified and destroyed on orders from Gen. Hoyt Vandenberg.",
+      "category": "program",
+      "significance": "high"
+    },
+    {
+      "date": "1952-07-19",
+      "title": "Washington D.C. UFO Wave",
+      "description": "Multiple unidentified objects appear on radar and are visually spotted over Washington D.C., including over the White House and Capitol. Jets scrambled twice. Objects tracked at 7,000+ mph. Largest peacetime UFO event ever recorded over U.S. airspace.",
+      "category": "incident",
+      "significance": "critical"
+    },
+    {
+      "date": "1952-03-25",
+      "title": "Project Blue Book Begins",
+      "description": "The Air Force launches Project Blue Book, its longest-running UFO investigation program. Over 17 years it would catalog 12,618 reports. Only 701 remain 'unidentified' in official records — but critics argue far more were inadequately explained.",
+      "category": "program",
+      "significance": "high"
+    },
+    {
+      "date": "1953-01-14",
+      "title": "CIA Robertson Panel",
+      "description": "A secret CIA-convened panel concludes UFOs pose no national security threat and recommends debunking public interest in them. The panel suggests using media and educational channels to reduce public fascination. Documents declassified decades later reveal the full scope.",
+      "category": "program",
+      "significance": "high"
+    },
+    {
+      "date": "1961-09-19",
+      "title": "Betty and Barney Hill Abduction",
+      "description": "Betty and Barney Hill report being abducted near White Mountains, NH. Regression hypnosis sessions later reveal detailed accounts. The case becomes the first widely reported alien abduction account and influences all subsequent abduction narratives.",
+      "category": "incident",
+      "significance": "medium"
+    },
+    {
+      "date": "1965-01-11",
+      "title": "Gemini 7 UAP Transcript",
+      "description": "Astronauts Frank Borman and James Lovell report an unidentified object during their Gemini 7 mission. The mission transcript — now declassified — includes their exchange with Mission Control about the sighting. (See: Gemini 7 Transcript 1965 in this archive)",
+      "category": "incident",
+      "significance": "high",
+      "relatedDoc": "NASA-UAP-D3_Gemini_7_Transcript_1965"
+    },
+    {
+      "date": "1966-03-20",
+      "title": "Swamp Gas Controversy",
+      "description": "J. Allen Hynek dismisses multiple UFO sightings in Michigan as 'swamp gas.' The explanation ignites national ridicule and fuels distrust in the Air Force's investigation process. Congressman Gerald Ford demands a congressional investigation.",
+      "category": "program",
+      "significance": "medium"
+    },
+    {
+      "date": "1969-07-20",
+      "title": "Apollo 11 UAP Sighting",
+      "description": "During the first lunar mission, crew reportedly observes an unidentified object in space. The technical crew debriefing — now declassified — contains references to unexplained observations. (See: Apollo 11 Technical Crew Debriefing 1969 in this archive)",
+      "category": "incident",
+      "significance": "high",
+      "relatedDoc": "NASA-UAP-D4_Apollo_11_Technical_Crew_Debriefing_1969"
+    },
+    {
+      "date": "1969-12-17",
+      "title": "Project Blue Book Terminated",
+      "description": "The Air Force officially closes Project Blue Book following the Condon Report, which concludes UFO study offers little scientific value. Critics note political pressure and flawed methodology. Investigations go dark — officially.",
+      "category": "program",
+      "significance": "high"
+    },
+    {
+      "date": "1973-12-10",
+      "title": "Apollo 17 & Skylab Debriefings",
+      "description": "Crew debriefings from Apollo 17 and the Skylab program contain discussions of anomalous objects observed in orbit. These documents — now released — include astronaut accounts of unexplained phenomena during missions.",
+      "category": "incident",
+      "significance": "high",
+      "relatedDoc": "NASA-UAP-D7_Skylab_Techincal_Crew_Debriefing_1973"
+    },
+    {
+      "date": "1976-09-18",
+      "title": "Tehran UFO Incident",
+      "description": "Iranian Air Force jets intercept a luminous UFO over Tehran. Weapons systems and electronics fail when pilots attempt to engage. Multiple independent witnesses including ground control. Classified U.S. Defense Intelligence Agency memo on the incident later declassified.",
+      "category": "incident",
+      "significance": "high"
+    },
+    {
+      "date": "1978-12-21",
+      "title": "Kaikoura Lights, New Zealand",
+      "description": "TV news crew films unexplained lights over Kaikoura, New Zealand from an aircraft. The footage is considered among the best documented UAP film from the era. Investigated by multiple governments with no satisfactory explanation.",
+      "category": "incident",
+      "significance": "medium"
+    },
+    {
+      "date": "1985-01-28",
+      "title": "State Dept Cable: Papua New Guinea",
+      "description": "A State Department cable documents a UAP report from Papua New Guinea. The cable — now declassified and in this archive — details observations made by officials and is part of a broader pattern of State Department UAP reporting.",
+      "category": "disclosure",
+      "significance": "medium",
+      "relatedDoc": "State_Department_UAP_Cable_1_Papua_New_Guinea_January_28_1985"
+    },
+    {
+      "date": "1989-11-11",
+      "title": "Bob Lazar Claims S-4 Reverse Engineering",
+      "description": "Former government employee Bob Lazar tells Las Vegas TV station he worked at a classified facility (S-4) near Area 51 reverse-engineering flying saucers of non-human origin. His claims — initially dismissed — have been partially corroborated over decades.",
+      "category": "disclosure",
+      "significance": "high"
+    },
+    {
+      "date": "1994-01-22",
+      "title": "State Dept Cable: Kazakhstan",
+      "description": "A State Department cable from Almaty, Kazakhstan documents a UAP report. Now declassified in this archive, it shows routine diplomatic reporting on aerial anomalies during the post-Soviet period.",
+      "category": "disclosure",
+      "significance": "medium",
+      "relatedDoc": "State_Department_UAP_Cable_2_Kazakhstan_January_31_1994"
+    },
+    {
+      "date": "1997-03-13",
+      "title": "Phoenix Lights",
+      "description": "A massive V-shaped or triangular object flies slowly and silently over Phoenix, Arizona, witnessed by thousands including the governor. Officially dismissed as flares. Governor Fife Symington held a press conference mocking the reports — then admitted years later he saw it himself.",
+      "category": "incident",
+      "significance": "critical"
+    },
+    {
+      "date": "2001-10-30",
+      "title": "State Dept Cable: Tbilisi, Georgia",
+      "description": "A State Department cable from Tbilisi, Georgia reports on a UAP sighting. Now declassified in this archive, it is part of a series of State Department diplomatic cables documenting UAP events across multiple countries over several decades.",
+      "category": "disclosure",
+      "significance": "medium",
+      "relatedDoc": "State_Department_UAP_Cable_3_Tbilisi_Georgia_October_30_2001"
+    },
+    {
+      "date": "2004-11-14",
+      "title": "USS Nimitz Tic-Tac Encounter",
+      "description": "Navy pilots from the USS Nimitz Carrier Strike Group encounter a white, Tic-Tac shaped object 100+ feet long off the coast of San Diego. The object descends from 80,000 feet to sea level in seconds, hovers over a disturbed patch of ocean, then accelerates away. Weapons systems are jammed. Footage captured on FLIR.",
+      "category": "incident",
+      "significance": "critical"
+    },
+    {
+      "date": "2007-08-01",
+      "title": "AATIP Program Begins (Secret)",
+      "description": "Senator Harry Reid secures $22 million in funding for the Advanced Aerospace Threat Identification Program (AATIP). Run out of the Defense Intelligence Agency, the program investigates UAP reports from military personnel. Its existence remains secret until 2017.",
+      "category": "program",
+      "significance": "high"
+    },
+    {
+      "date": "2014-08-01",
+      "title": "USS Theodore Roosevelt Encounters Begin",
+      "description": "Navy pilots off the East Coast begin encountering UAPs almost daily. The objects — recorded on radar and FLIR — exhibit no visible exhaust, no wings, and maneuver at speeds and g-forces that would kill human pilots. Encounters continue through 2015.",
+      "category": "incident",
+      "significance": "critical"
+    },
+    {
+      "date": "2017-12-16",
+      "title": "New York Times Breaks AATIP Story",
+      "description": "The New York Times publishes a bombshell investigation revealing the secret AATIP program and releasing the now-iconic Tic-Tac, Gimbal, and GoFast videos. The story — co-authored with Tom DeLonge's To The Stars Academy — marks a turning point in mainstream media coverage of UAPs.",
+      "category": "disclosure",
+      "significance": "critical"
+    },
+    {
+      "date": "2019-09-18",
+      "title": "U.S. Navy Officially Acknowledges UAP Videos",
+      "description": "The United States Navy officially acknowledges that the three leaked videos (Tic-Tac, Gimbal, GoFast) show unidentified aerial phenomena — the first time the military has publicly confirmed UAP footage is genuine. This marks the end of the 'deny everything' era.",
+      "category": "disclosure",
+      "significance": "critical"
+    },
+    {
+      "date": "2020-04-27",
+      "title": "Pentagon Officially Releases UAP Videos",
+      "description": "The Department of Defense formally releases the three UAP videos, confirming they were shot by Navy personnel and are unclassified. Defense Secretary Esper is briefed. The videos show objects performing maneuvers not possible with known technology.",
+      "category": "disclosure",
+      "significance": "critical"
+    },
+    {
+      "date": "2021-06-25",
+      "title": "DNI UAP Task Force Report Released",
+      "description": "The Office of the Director of National Intelligence releases its preliminary assessment of 144 UAP incidents. Only one can be explained. The report acknowledges potential national security risks and calls for better reporting systems. The U.S. government officially admits it has unexplained objects in its airspace.",
+      "category": "disclosure",
+      "significance": "critical"
+    },
+    {
+      "date": "2022-05-17",
+      "title": "First Congressional UAP Hearing in 50 Years",
+      "description": "The House Intelligence subcommittee holds the first open congressional hearing on UAPs since 1966. Deputy Secretary of Defense Ronald Moultrie and Pentagon intelligence official Scott Bray testify. A classified briefing follows. Many questions go unanswered.",
+      "category": "disclosure",
+      "significance": "high"
+    },
+    {
+      "date": "2022-07-15",
+      "title": "AARO Established",
+      "description": "The All-domain Anomaly Resolution Office (AARO) is established within the Department of Defense as the central hub for UAP detection, identification, and attribution. Charged with coordinating across military branches and intelligence agencies.",
+      "category": "program",
+      "significance": "high"
+    },
+    {
+      "date": "2023-07-26",
+      "title": "David Grusch Congressional Testimony",
+      "description": "Former intelligence officer David Grusch testifies under oath before Congress that the U.S. government possesses recovered non-human craft and 'non-human biologics.' Navy veteran Ryan Graves and pilot David Fravor also testify. Grusch's claims trigger formal investigations.",
+      "category": "disclosure",
+      "significance": "critical"
+    },
+    {
+      "date": "2023-09-01",
+      "title": "FBI September 2023 UAP Sighting",
+      "description": "An FBI-investigated UAP sighting generates multiple documents including a composite sketch and serial reports. Now declassified and in this archive, these documents are among the first FBI UAP investigation records to be made public.",
+      "category": "incident",
+      "significance": "high",
+      "relatedDoc": "FBI_September_2023_Sighting_-_Composite_Sketch"
+    },
+    {
+      "date": "2024-01-12",
+      "title": "AARO Historical Record Report Vol. 1",
+      "description": "AARO releases its first Historical Record Report, examining claims of U.S. government programs involving non-human intelligence and UAP material. The report finds no evidence supporting such claims — but critics note AARO's limited access to certain compartmented programs.",
+      "category": "disclosure",
+      "significance": "high"
+    },
+    {
+      "date": "2024-06-14",
+      "title": "AARO Historical Record Report Vol. 2",
+      "description": "AARO releases Volume 2 of its historical review, further examining alleged reverse-engineering programs. Whistleblowers criticize the findings as incomplete given access restrictions. The debate between official denials and insider accounts intensifies.",
+      "category": "disclosure",
+      "significance": "high"
+    },
+    {
+      "date": "2026-05-08",
+      "title": "WAR.GOV Mass Declassification: 118+ Documents",
+      "description": "The Department of War releases 118+ classified documents covering UFO/UAP incidents across the FBI, Department of War, NASA, and Department of State. This is the single largest government UAP document dump in history — including mission reports, crew transcripts, incident summaries, photo evidence, and declassified cables spanning from 1942 to 2024.",
+      "category": "disclosure",
+      "significance": "critical",
+      "isLatest": true
+    }
+  ]
+}
